@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&family=Tektur&display=swap');
+html {
+  height: 100%;
+  width: 100%;
+  /* background: red; */
+  
+}
+body{
+  background-image: url("https://www.hideipvpn.com/wp-content/uploads/2022/03/my-computer-has-been-hacked.jpg") ;
+  
+  background-color: black;
+  background-position: center;
+  background-repeat: no-repeat;
+  font-family: 'Tektur', cursive;
+  font-size: 28px;
+  /* background: black; */
+  color: #20d920;
+}
